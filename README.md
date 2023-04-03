@@ -37,7 +37,7 @@
 - [Web Development for Beginners: HTML and CSS. Stepik](https://drive.google.com/file/d/1CnC6RpwsbzW5ns97hvdJbK29WzM9Qn6I/view?usp=sharing)
 
 ## Resume
-[QA Engineer](https://drive.google.com/file/d/1tvvT_4TjFJLx1wqqMH-V4baDx-85b7GK/view?usp=sharing)
+[QA Engineer](https://drive.google.com/file/d/12G4gWV39vXaDrJxZ9a2iVcqTq419TJvm/view?usp=sharing)
 
 ## Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-080e12?style=for-the-badge&logo=telegram)](https://t.me/AntonP174)
