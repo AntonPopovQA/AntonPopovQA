@@ -41,7 +41,5 @@
 
 ## Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-080e12?style=for-the-badge&logo=telegram)](https://t.me/AntonP174)
-
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-080e12?style=for-the-badge&logo=linkedin&logoColor=007886)](https://www.linkedin.com/in/anton-popov-73b702261/)
-
 [![Mail.ru](https://img.shields.io/badge/-mail.ru-080e12?style=for-the-badge&logo=mail.ru&logoColor=FF9E00)](mailto:toni-popov93@mail.ru)
