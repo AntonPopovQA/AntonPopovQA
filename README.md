@@ -23,7 +23,7 @@
 ## Testing Documenation
 - [Checklists](https://github.com/AspireVX15/For_CV/tree/main/check_lists)
 - [Test Cases](https://github.com/AspireVX15/For_CV/tree/main/test_cases)
-- [Test Cases in Qase] (https://github.com/AntonPopovQA/For_CV/tree/main/tes_cases%20in%20Qase)
+- [Test Cases in Qase](https://github.com/AntonPopovQA/For_CV/tree/main/tes_cases%20in%20Qase)
 - [Bug Reports](https://github.com/AspireVX15/For_CV/tree/main/bug_reports)
 - [Postman Collections](https://github.com/AspireVX15/For_CV/tree/main/postman)
 - [SQL Queries](https://github.com/AspireVX15/For_CV/tree/main/sql)
