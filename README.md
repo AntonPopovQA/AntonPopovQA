@@ -23,6 +23,7 @@
 ## Testing Documenation
 - [Checklists](https://github.com/AspireVX15/For_CV/tree/main/check_lists)
 - [Test Cases](https://github.com/AspireVX15/For_CV/tree/main/test_cases)
+- [Test Cases in Qase] (https://github.com/AntonPopovQA/For_CV/tree/main/tes_cases%20in%20Qase)
 - [Bug Reports](https://github.com/AspireVX15/For_CV/tree/main/bug_reports)
 - [Postman Collections](https://github.com/AspireVX15/For_CV/tree/main/postman)
 - [SQL Queries](https://github.com/AspireVX15/For_CV/tree/main/sql)
@@ -37,7 +38,7 @@
 - [Web Development for Beginners: HTML and CSS. Stepik](https://drive.google.com/file/d/1CnC6RpwsbzW5ns97hvdJbK29WzM9Qn6I/view?usp=sharing)
 
 ## Resume
-[QA Engineer](https://drive.google.com/file/d/12G4gWV39vXaDrJxZ9a2iVcqTq419TJvm/view?usp=sharing)
+[QA Engineer](https://drive.google.com/file/d/1riswtCj1QSU0KDgqrhFt1zsb1u6Fe4yw/view?usp=sharing)
 
 ## Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-080e12?style=for-the-badge&logo=telegram)](https://t.me/AntonP174)
