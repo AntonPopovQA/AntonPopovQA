@@ -25,6 +25,7 @@
 - [Test Cases](https://github.com/AspireVX15/For_CV/tree/main/test_cases)
 - [Test Cases in Qase](https://github.com/AntonPopovQA/For_CV/tree/main/tes_cases%20in%20Qase)
 - [Bug Reports](https://github.com/AspireVX15/For_CV/tree/main/bug_reports)
+- [Bug Reports in Jira](https://github.com/AntonPopovQA/For_CV/tree/main/bug_reports%20in%20Jira)
 - [Postman Collections](https://github.com/AspireVX15/For_CV/tree/main/postman)
 - [SQL Queries](https://github.com/AspireVX15/For_CV/tree/main/sql)
 - [Test Reports](https://github.com/AspireVX15/For_CV/tree/main/test_reports)
